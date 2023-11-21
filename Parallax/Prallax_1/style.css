@@ -1,0 +1,85 @@
+body {
+  background-color: #569aff90;
+  height: 4000px;
+}
+.bulut {
+  position: absolute;
+  z-index: 10;
+  mix-blend-mode: overlay;
+}
+.bulut_1 {
+  top: 7.09px;
+    left: -1.2px;
+    width: 547.75px;
+    height: 133.2px;
+}
+.bulut_2 {
+  top: 25.47px;
+  left: 601.33px;
+  width: 372.21px;
+    height: 124.41px;
+    
+}
+.bulut_3 {
+  top: 131.53px;
+  left: -1.49px;
+  width: 242.88px;
+    height: 60.41px;
+} 
+.qushlar{
+  position: absolute;
+  top: 158.33px;
+  left: 364.22px;
+  width: 115.73px;
+  height: 38.39px;
+}
+ .quyosh_nur {
+  position: absolute;
+  top: 139.07px;
+  left: 503.3px;
+  width: 139.7px;
+  height: 100.32px;
+}
+.quyosh_nur_01 {
+  position: absolute;
+  top: 154.07px;
+  left: 543.3px;
+  width: 70px;
+  height: 70px;
+  opacity: 0.5;
+
+
+}
+.quyosh_nur_02 {
+  position: absolute;
+  width: 726.8px;
+  height: 310.58px;
+  top: 69.7px;
+  left: 118.22px;
+  opacity: 0.1;
+  
+
+
+}
+
+.tog_1 {
+  position: absolute;
+  top: 187.86px;
+  left: -4px;
+  width: 1011px;
+  height: 113.54px;
+}
+.tog_2 {
+  position: absolute;
+  top: 216.68px;
+  left: 547.58px;
+  width: 450.11px;
+  height: 77.7px;
+}
+.daryo {
+  position: absolute;
+  top: 283.44px;
+  left: -20.25px;
+  width: 1031.87px;
+  height: 154.89px;
+} 
